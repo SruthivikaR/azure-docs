@@ -714,7 +714,7 @@ In on-premises architectures, SSIS was a popular option for managing the loading
 
   This tool is also an MMC snap-in for administrators to discover failures, suspended instances, transactions currently being retried, state, and more. The tool experience is very reactive in nature because you must constantly refresh the console to review the latest information.
 
-- [BizTalk360](https://www.serverless360.com/business-applications)
+- [BizTalk360](https://www.biztalk360.com/)
 
   An external web solution that provides total control over your BizTalk Server environment. This single tool offers operations, monitoring, and analytics capabilities for BizTalk Server.
 
